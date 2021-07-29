@@ -1,10 +1,10 @@
 const data =[
-    '1',
-    '2',
-    '3',
-    '4',
-    '5',
-    '6'
+    'Array',
+    'Object',
+    'Number',
+    'Undefined',
+    'null',
+    '[object Object]'
 ];
 
 const bgColor=['#00a4e4','#7552cc','#00205b','#008eaa','#1c79c0','#0066a1'];
